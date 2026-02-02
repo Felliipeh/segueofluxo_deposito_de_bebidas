@@ -1,3 +1,4 @@
+/* Destaque VIP Grupo */
 
 /* --- CONFIGURAÇÕES GLOBAIS --- */
 :root {
@@ -221,20 +222,19 @@ body {
     display: block;
     margin-top: 2px;
 }
-
-/* --- FOOTER --- */
-footer {
-    margin-top: auto;
-    padding: 50px 0 20px;
-    font-size: 0.75rem;
-}
-/* Destaque VIP Grupo */
 .vip-highlight {
     box-shadow: 0 0 16px 0 rgba(255, 215, 0, 0.18), 0 0 0 2px rgba(255, 215, 0, 0.10);
     position: relative;
     z-index: 1;
     border: none !important;
 }
+/* --- FOOTER --- */
+footer {
+    margin-top: auto;
+    padding: 50px 0 20px;
+    font-size: 0.75rem;
+}
+
 .footer-main {
     display: flex;
     justify-content: center;
